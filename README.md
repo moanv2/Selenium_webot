@@ -48,7 +48,7 @@ This tool is specifically designed for:
 Run the script with:
 
 ```bash
-python bot.py
+python main.py
 ```
 
 The bot will:
